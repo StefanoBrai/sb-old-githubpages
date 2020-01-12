@@ -1,4 +1,4 @@
-# Github: [Link Text](https://github.com/StefanoBrai)
+[Github](https://github.com/StefanoBrai)
 
 # Curriculum Vitae
 
