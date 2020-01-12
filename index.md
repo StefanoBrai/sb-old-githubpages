@@ -1,5 +1,6 @@
 Mail: braistefano@gmail.com
-Gitbub: https://github.com/StefanoBrai
+<br>
+[Gitbub](https://github.com/StefanoBrai)
 
 # Curriculum Vitae
 
