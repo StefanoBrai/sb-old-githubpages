@@ -1,5 +1,6 @@
-[Mail](braistefano@gmail.com)
-[Github](https://github.com/StefanoBrai)
+##### Mail: braistefano@gmail.com
+##### Gitbub: https://github.com/StefanoBrai
+
 # Curriculum Vitae
 
 #### <u>ISTRUZIONE E FORMAZIONE</u>
