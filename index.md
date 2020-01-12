@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/StefanoBrai/test.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### <u>ISTRUZIONE E FORMAZIONE</u>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IN CORSO:
+> <h4>Corso per Tecnico Programmatore .Net e Angular</h4>
+> <ul>Presso: Axia Formazione e Consulenza</ul>
+> <h4>Ingegneria Informatica</h4>
+> <ul>Presso: Università degli Studi di Genova</ul>
 
-### Markdown
+FINITI:
+> <h4>Diploma di scuola superiore</h4>
+> <ul>Data conseguimento: 2017</ul>
+> <ul>Indirizzo: Costruzioni Ambiente e Territorio</ul>
+> <ul>Luogo: Istituto Di Istruzione Superiore Gastaldi – Abba, Via Teglia 12 – Genova</ul>
+>
+> <h4>Diploma di scuola secondaria di primo grado</h4>
+> <ul>Data conseguimento: 2012</ul>
+> <ul>Luogo: Istituto Caffaro, Via Gaz 3 – Genova</ul>
+>
+> <h4>Diploma di scuola primaria</h4>
+> <ul>Data conseguimento: 2009</ul>
+> <ul>Luogo: Istituto Comprensivo Certosa, Via Ludovico Ariosto 1 – Genova</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### <u>CAPACITÀ E COMPETENZE PERSONALI</u>
+> <ul><li>Buone Capacità organizzative, gestionali, di problem-solving e di relazionarsi con i colleghi</li></ul>
+> <ul><li>Conoscenza lingua:</li></ul>
+> <ul><ul><li>Italiano: Madrelingua</li></ul></ul>
+> <ul><ul><li>Inglese: Buono</li></ul></ul>
+> <ul><ul><li>Francese: Elementare</li></ul></ul>
+> <ul><li>Sistemi Operativi utilizzati:</li></ul>
+> <ul><ul><li>Windows</li></ul></ul>
+> <ul><ul><li>MacOS</li></ul></ul>
+> <ul><ul><li>Linux</li></ul></ul>
+> <ul><li>Pacchetto Office</li></ul>
+> <ul><li>Autocad</li></ul>
+> <ul><li>Docfa</li></ul>
+> <ul><li>Linguaggi di programmazione:</li></ul>
+> <ul><ul><li>C++</li></ul></ul>
+> <ul><ul><li>C#</li></ul></ul>
+> <ul><ul><li>Angular</li></ul></ul>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StefanoBrai/test.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### <u>ESPERIENZA LAVORATIVA</u>
+> <ul><li>Stage da Geometra</li></ul>
+> <ul><ul>Data inizio - fine: 01/02/2016</ul></ul>
+> <ul><ul>Presso: Geometra Vincenzo De Stefano, Piazza Facchini 2 – Genova</ul></ul>
+> <ul><ul>Principale impiego: Utilizzo di Autocad</ul></ul>
