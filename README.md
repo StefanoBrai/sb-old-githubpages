@@ -4,7 +4,7 @@ ___
 
 #### **Link utili**
 
-> [About Me](aboutMe.md)
+> [Curriculum Vitae](aboutMe.md)
 >
 > [GitHub](https://github.com/StefanoBrai)
 >
