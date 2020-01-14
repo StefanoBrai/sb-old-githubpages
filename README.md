@@ -2,8 +2,8 @@
 
 ___
 
-**Ciao sono Stefano e sono un grande appassionato di tecnologia, seguo questo mondo da sempre per via della mia curiosità nel conoscere la natura delle cose, in particolar modo in questo ambito.
-Per via della mia passione mi tengo informato sulle nuove tecnologie, sull'hardware e ho imparato vari linguaggi di programmazione.**
+<div style="text-align:justify">**Ciao sono Stefano e sono un grande appassionato di tecnologia, seguo questo mondo da sempre per via della mia curiosità nel conoscere la natura delle cose, in particolar modo in questo ambito.
+Per via della mia passione mi tengo informato sulle nuove tecnologie, sull'hardware e ho imparato vari linguaggi di programmazione.**</div>
 
 ___
 
