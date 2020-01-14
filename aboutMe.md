@@ -1,5 +1,7 @@
 <h1 align="center">Curriculum Vitae</h1>
 
+___
+
 #### <u>ISTRUZIONE E FORMAZIONE</u>
 
 **IN CORSO:**
