@@ -1,7 +1,8 @@
 <h1 align="center">Progetti</h1>
 
 > #### **Progetto C#**
-> <ul>[link](https://github.com/StefanoBrai/NoNullProjectMVC/tree/master/WebApp-NEW/AppWeb/WebApplication1)</ul>
+>
+> <a href="https://github.com/StefanoBrai/NoNullProjectMVC/tree/master/WebApp-NEW/AppWeb/WebApplication1">link</a>
 >
 > #### **Progetto Angular**
 > <ul>https://github.com/StefanoBrai/HelloProject-Angular</ul>
