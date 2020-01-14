@@ -9,6 +9,3 @@
 > <ul>
     <a href="https://github.com/StefanoBrai/HelloProject-Angular">Vedi su GitHub</a>
   </ul>
-
-
-<ul>https://github.com/StefanoBrai/HelloProject-Angular</ul>
