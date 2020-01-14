@@ -13,7 +13,7 @@ ___
 
 #### **Link utili**
 
-> [Curriculum Vitae](aboutMe.md)
+> [Curriculum Vitae](curriculumVitae.md)
 >
 > [GitHub](https://github.com/StefanoBrai)
 >
