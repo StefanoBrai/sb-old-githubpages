@@ -18,6 +18,8 @@ ___
 
 > [Curriculum Vitae](curriculumVitae.md)
 >
+> [Progetti](project.md)
+>
 > [GitHub](https://github.com/StefanoBrai)
 >
 > [Contact](contact.md)
